@@ -19,7 +19,7 @@ setup(
 	                  'html5lib==0.9999999', 'itsdangerous==0.24', 'Jinja2==2.10',
 	                  'kiwisolver==1.0.1', 'Markdown==2.6.11', 'MarkupSafe==1.0', 'matplotlib==3.0.0', 'nose==1.3.7', 'numpy==1.17.0',
 	                  'pandas==0.24.2', 'protobuf==3.6.1', 'pyparsing==2.2.0', 'python-dateutil==2.7.3', 'pytz==2018.5', 'python-Levenshtein',
-	                  'PyYAML==3.13', 'scikit-learn==0.22.0', 'scipy==1.3.1', 'six==1.11.0',
+	                  'PyYAML==5.3', 'scikit-learn==0.22.0', 'scipy==1.3.1', 'six==1.11.0',
 	                  'sklearn==0.0', 'tensorflow==1.15', 'termcolor==1.1.0',
 	                  'Werkzeug==0.14.1'],
 )
